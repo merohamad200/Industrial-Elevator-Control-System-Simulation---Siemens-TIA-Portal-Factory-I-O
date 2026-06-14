@@ -1,0 +1,2 @@
+# Industrial-Elevator-Control-System-Simulation---Siemens-TIA-Portal-Factory-I-O
+Designed and simulated a comprehensive multi-floor elevator control logic using Ladder Diagram (LD) in Siemens TIA Portal.  Integrated the PLC controller with Factory I/O to simulate real-time physical kinematics and validate system responsiveness.  Programmed robust safety interlocks and emergency stop protocols prior to executing network
